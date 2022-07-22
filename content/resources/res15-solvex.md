@@ -13,6 +13,7 @@ image_metadata:
   image-alt: 'A young African woman is smiling as she workshops ideas with other local
     entrepreneurs at a large table. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: RES15-solvex.jpg

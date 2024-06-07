@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-solvex-business-and-impact-planning-for-social-enterprises-0-solvex-summer-2021/d813bfb0e9357a1d5da2415d25102289_RES15-solvex.jpg
+file_size: 108929
 file_type: image/jpeg
 image_metadata:
   caption: "Nancy Kayitare is a young Rwandan entrepreneur who runs TouTrip, a search\

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-solvex-business-and-impact-planning-for-social-enterprises-0-solvex-summer-2021/ab88f839dc3b81a0f2675ed2689d61ca_RES15-solvex-th.jpg
+file: /courses/res-solvex-business-and-impact-planning-for-social-enterprises-0-solvex-summer-2021/ab88f839dc3b81a0f2675ed2689d61ca_RES15-solvex-th.jpg
 file_size: 35667
 file_type: image/jpeg
 image_metadata:

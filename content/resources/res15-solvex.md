@@ -8,8 +8,8 @@ image_metadata:
   caption: "Nancy Kayitare is a young Rwandan entrepreneur who runs TouTrip, a search\
     \ engine for making travel arrangements that she founded after having difficulty\
     \ arranging trips to remote areas of the country. (Image by Yagazie Emezi. Source:\_\
-    {{% resource_link \"b3982393-57f3-4262-8f19-ae13db6a55bb\" \"Getty Images/Images\
-    \ of Empowerment\" %}}. License: CC BY-NC.)"
+    [Getty Images/Images of Empowerment](https://www.imagesofempowerment.org/d_pa-1799312_347/).\
+    \ License: CC BY-NC.)"
   credit: ''
   image-alt: 'A young African woman is smiling as she workshops ideas with other local
     entrepreneurs at a large table. '
